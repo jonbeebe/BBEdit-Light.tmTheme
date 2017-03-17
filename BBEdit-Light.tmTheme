@@ -296,9 +296,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#990000</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#d02325</string>
 			</dict>
 		</dict>
 		<dict>
